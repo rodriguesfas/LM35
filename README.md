@@ -1,6 +1,6 @@
 ![LM35 Logo](https://github.com/rodriguesfas/LM35/blob/master/extras/logo.png)
 
-Esta Biblioteca foi contruída para facilitar a implementação e minimizar a quantidade de código quando trabalhar com o sensor LM35, ler temperatura e realiza média com facilidade nas escalas Celsius, Fahrenheit e Kelvin.
+Esta Biblioteca foi construída para facilitar a implementação e minimizar a quantidade de código quando trabalhar com o sensor LM35, ler temperatura e realiza média com facilidade nas escalas Celsius, Fahrenheit e Kelvin.
 
 ![LM35 img](https://github.com/rodriguesfas/LM35/blob/master/extras/fritzing.png)
 
