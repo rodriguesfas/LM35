@@ -1,10 +1,10 @@
-![LM35 Logo]()
+![LM35 Logo](https://github.com/rodriguesfas/LM35/blob/master/extras/logo.png)
 
 Esta Biblioteca foi contruída para facilitar a implementação e minimizar a quantidade de código quando trabalhar com o sensor LM35, ler temperatura e realiza média com facilidade nas escalas Celsius, Fahrenheit e Kelvin.
 
 Esse hardware possui terminais parafusáveis para fácil instalação e buracos nas extremidades da placa para fixação.
 
-![LM35 img]()
+![LM35 img](https://github.com/rodriguesfas/LM35/blob/master/extras/fritzing.png)
 
 Especificações:
  * - Temperature Maximum: 150 ° C
@@ -39,19 +39,21 @@ LM35 sensor(A0);
 ```
 
 ## Exemplo
-	Veja um exemplo de como tudo fica mais simples e enxuto: < >
+	Veja exemplos de como tudo fica mais simples e enxuto:
+	Símples: https://github.com/rodriguesfas/LM35/blob/master/examples/single/single.ino
+	Média: https://github.com/rodriguesfas/LM35/blob/master/examples/average/average.ino
 
 ## Dicas e avisos
-	lm35.Pdf: <http://www.ti.com/lit/ds/symlink/lm35.pdf>
-			  <https://arduino-info.wikispaces.com/file/view/LM35.pdf/239757859/LM35.pdf>
+	lm35.Pdf: http://www.ti.com/lit/ds/symlink/lm35.pdf
+		  https://arduino-info.wikispaces.com/file/view/LM35.pdf/239757859/LM35.pdf
 
 ## Referência
 	Construído sobre:
  	LM35.h - Library for LM35 temperature sensor.
  	Created by Ricardo Sequeira, February 13, 2014.
- 	Website: <http://ricardo-sequeira.com/lm35-arduino-library/>
- 	Github: <https://github.com/ricardosequeira/LM35-Arduino-Library>
+ 	Website: http://ricardo-sequeira.com/lm35-arduino-library/
+ 	Github: https://github.com/ricardosequeira/LM35-Arduino-Library
 
  	Mauricio Natanael Ferreira
  	LM35 - Sensor de Temperatura - Arduino
- 	Website: <http://www.ferreiramauricio.com/lm35-sensor-de-temperatura-arduino>
+ 	Website: http://www.ferreiramauricio.com/lm35-sensor-de-temperatura-arduino
