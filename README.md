@@ -2,8 +2,6 @@
 
 Esta Biblioteca foi contruída para facilitar a implementação e minimizar a quantidade de código quando trabalhar com o sensor LM35, ler temperatura e realiza média com facilidade nas escalas Celsius, Fahrenheit e Kelvin.
 
-Esse hardware possui terminais parafusáveis para fácil instalação e buracos nas extremidades da placa para fixação.
-
 ![LM35 img](https://github.com/rodriguesfas/LM35/blob/master/extras/fritzing.png)
 
 Especificações:
@@ -15,7 +13,7 @@ Especificações:
 
 ## Instalação
 
-1. "Download":https://github.com/rodriguesfas/LM35/archive/master.zip ;
+1. "Download" https://github.com/rodriguesfas/LM35/archive/master.zip
 2. Descompacte e modifique o nome da pasta para: "LM35" (Remova o '-master');
 3. Importe-a para sua pasta Library da sua IDE Arduino ou o diretório sketchbooks do Arduíno software;
 4. Restart Arduino IDE.
