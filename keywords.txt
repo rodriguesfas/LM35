@@ -3,8 +3,8 @@
 # KEYWORD2 = Métodos
 # ====================================================================
 
-LM35 KEYWORD1
+LM35	KEYWORD1
 
-readCelsius KEYWORD2
-readFahrenheit KEYWORD2
-readKelvin KEYWORD2
+readCelsius	KEYWORD2
+readFahrenheit	KEYWORD2
+readKelvin	KEYWORD2
